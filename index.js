@@ -23,10 +23,6 @@ function side() {
   }
 }
 
-x.style.display === "none";
-y.style.display === "none";
-z.style.display === "none";
-
 const firebaseConfig = {
   apiKey: "AIzaSyBSYHs1P_AhrlQpeuotE0BvCerK-9nDfbA",
   authDomain: "the-firebase-taste.firebaseapp.com",
