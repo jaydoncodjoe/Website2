@@ -3,23 +3,24 @@
   <head>
     <meta charset="utf-8">
     <title>The Firebase Taste</title>
+    </script src="./index.js">
   </head>
   <body>
     <div id="main">
       <ul>
-        <li class="classOne">Foods</li>
-          <ul>
+        <li><button onclick="food()">Foods</button></li>
+          <ul id="food">
             <input type="text" id="fName" placeholder="Name">
             <input type="text" id="fInput" placeholder="Food">
             <button>Add Food!</button>
           </ul>
-        <li class="classOne">Drinks</li>
+        <li id="drink"><button onclick="drink()">Drinks</button></li>
           <ul>
             <input type="text" id="dName" placeholder="Name">
             <input type="text" id="dInput" placeholder="Drink">
             <button>Add Drink!</button>
           </ul>
-        <li class="classOne">Sides</li>
+        <li id="side"><button onclick="side()">Sides</button></li>
           <ul>
             <input type="text" id="sName" placeholder="Name">
             <input type="text" id="sInput" placeholder="Drink">
