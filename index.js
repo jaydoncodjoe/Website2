@@ -22,3 +22,14 @@ function side() {
     z.style.display = "none";
   }
 }
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBSYHs1P_AhrlQpeuotE0BvCerK-9nDfbA",
+  authDomain: "the-firebase-taste.firebaseapp.com",
+  databaseURL: "https://the-firebase-taste.firebaseio.com",
+  projectId: "the-firebase-taste",
+  storageBucket: "the-firebase-taste.appspot.com",
+  messagingSenderId: "731265910423",
+  appId: "1:731265910423:web:177b17a4c95e5c6f434bd2",
+  measurementId: "G-6WQTHYWZFM"
+};
