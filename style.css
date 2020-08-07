@@ -48,4 +48,6 @@ div {
 #bottom {
   width: 100%;
   background-color: #abdcea;
+  position:absolute;
+  bottom:0;
 }
