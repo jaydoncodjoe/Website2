@@ -9,11 +9,17 @@
 * {
   margin: 0;
   padding: 0;
+  text-align: center;
+
 }
 
 h1 {
-  font-style: Roboto;
+  font-style: "Roboto";
 }
  p {
-   font-style: Noto Sans;
+   font-style: "Noto Sans";
  }
+
+div {
+  display: inline-block;
+}
