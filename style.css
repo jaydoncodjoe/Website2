@@ -40,3 +40,12 @@ div {
 #middle1 > h1 {
   font-size: 100px;
 }
+
+#middle2 {
+  background-color: #aad4e4;
+}
+
+#footer {
+  width: 100%;
+  background-color: #abdcea;
+}
