@@ -29,5 +29,5 @@ div {
   position: sticky;
   position: -webkit-sticky;
   top: 0; /* required */
-  text-shadow: 0px 2px 5px black;
+  width: 100%;
 }
