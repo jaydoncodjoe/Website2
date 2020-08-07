@@ -30,4 +30,5 @@ div {
   position: -webkit-sticky;
   top: 0; /* required */
   width: 100%;
+  text-align: left;
 }
