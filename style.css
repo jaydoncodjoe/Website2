@@ -32,3 +32,11 @@ div {
   width: 100%;
   text-align: left;
 }
+
+#middle1 {
+  background-color: #F0BCE4;
+}
+
+#middle1 > h1 {
+  font-size: 100px;
+}
